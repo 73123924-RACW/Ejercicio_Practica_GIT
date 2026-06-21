@@ -1,1 +1,1 @@
-print("Segundo ejemplo para subir a GitHub luego de reiniciar y clonar")
+print("Segundo ejemplo para subir a GitHub luego___ de reiniciar y clonar")
